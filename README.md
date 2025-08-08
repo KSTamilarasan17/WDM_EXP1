@@ -53,6 +53,10 @@ rainy,75.0,80.0,false,yes
 8) Click on edit button which shows employee table on weka.
 
 ### OUTPUT:
+<img width="1228" height="736" alt="Screenshot 2025-08-08 104958" src="https://github.com/user-attachments/assets/fedaef7f-9f71-4bcf-ac94-d66469e3e38f" />
+
+<img width="1231" height="734" alt="Screenshot 2025-08-08 105314" src="https://github.com/user-attachments/assets/af0759ca-e5a8-48e9-951d-02a644d86ccf" />
+
 
 
 
@@ -75,6 +79,10 @@ rainy,75.0,80.0,false,yes
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+<img width="1231" height="738" alt="Screenshot 2025-08-08 105749" src="https://github.com/user-attachments/assets/59a74bda-4cc7-46c9-b712-5f2be6ae1630" />
+
+<img width="1230" height="736" alt="Screenshot 2025-08-08 110051" src="https://github.com/user-attachments/assets/79fa7a70-87d0-42c2-90c1-9267de56f493" />
+
 
 ### 2) Remove -> Pre-Processing Technique:
 
@@ -91,6 +99,10 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+<img width="1232" height="738" alt="Screenshot 2025-08-08 110518" src="https://github.com/user-attachments/assets/afcee417-f55f-44e2-8c0e-2b07071e9e3d" />
+
+<img width="1230" height="736" alt="Screenshot 2025-08-08 110801" src="https://github.com/user-attachments/assets/a95041c2-6000-42a5-b0ed-5ef44f3eb91c" />
+
 
 ### Normalize -> Pre-Processing Technique:
 
@@ -107,5 +119,10 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
+<img width="1232" height="734" alt="Screenshot 2025-08-08 110638" src="https://github.com/user-attachments/assets/3d876747-4e54-4925-87e6-80b3694de5bc" />
+
+<img width="1230" height="736" alt="Screenshot 2025-08-08 110824" src="https://github.com/user-attachments/assets/4d662d7b-bdf3-421f-9467-2e2f931f54a4" />
+
+
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
